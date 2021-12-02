@@ -21,7 +21,7 @@ B=([-9,4,-1])
 f=np.linalg.solve(A,B)
 print(f)
 ~~~
-
+;;
 ## Output:
 ![GitHub Logo](SOLVE_LINALG.png)
 ## Result: 
